@@ -130,23 +130,23 @@ def main(config):
             generate_natural_language_descriptions(config)
             step_times['生成自然语言描述'] = datetime.datetime.now() - start_time
 
-        # # 13. 合规性审查
-        # if step_controls.get("check_compliance", 1):
-        #     start_time = datetime.datetime.now()
-        #     check_compliance(config)
-        #     step_times['合规性审查'] = datetime.datetime.now() - start_time
+        # 13. 合规性审查
+        if step_controls.get("check_compliance", 1):
+            start_time = datetime.datetime.now()
+            check_compliance(config)
+            step_times['合规性审查'] = datetime.datetime.now() - start_time
 
-        # # 14. 创建报告相关的视图
-        # if step_controls.get("create_report_views", 1):
-        #     start_time = datetime.datetime.now()
-        #     create_report_views(config)
-        #     step_times['创建报告视图'] = datetime.datetime.now() - start_time
+        # 14. 创建报告相关的视图
+        if step_controls.get("create_report_views", 1):
+            start_time = datetime.datetime.now()
+            create_report_views(config)
+            step_times['创建报告视图'] = datetime.datetime.now() - start_time
 
-        # # 15. 评测
-        # if step_controls.get("evaluate", 1):
-        #     start_time = datetime.datetime.now()
-        #     evaluate(config)
-        #     step_times['评测'] = datetime.datetime.now() - start_time
+        # 15. 评测
+        if step_controls.get("evaluate", 1):
+            start_time = datetime.datetime.now()
+            evaluate(config)
+            step_times['评测'] = datetime.datetime.now() - start_time
 
         # 计算总执行时间
         total_time = datetime.datetime.now() - total_start_time
@@ -222,7 +222,7 @@ if __name__ == "__main__":
         # 否则处理默认配置文件列表
         config_files = [
             # "config/bridge_config-Qwen2.5-72B-Instruct.toml",
-            # "config/bridge_config-Qwen2.5-32B-Instruct.toml",
+            "config/bridge_config-Qwen2.5-32B-Instruct.toml",
             # "config/bridge_config-Qwen2.5-14B-Instruct.toml",
             # "config/bridge_config-Qwen2.5-7B-Instruct.toml",
             # "config/bridge_config-4o-mini.toml",

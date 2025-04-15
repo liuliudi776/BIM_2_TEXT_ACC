@@ -19,9 +19,9 @@
 22,不适用,不适用
 23,不适用,不适用
 24,不适用,不适用
-27,不合规,"[{""guid"": ""3EtAD_wPn6E9rLJZ3AnbCn"", ""type"": ""单幅 (IfcBridge)""}, {""guid"": ""1TNv6Ty9L0ivEyiBVafqrG"", ""type"": ""公路 (IfcRoad)""}]"
-27,不合规,"[{""guid"": ""3qKZsV4mrF0wOxRjyA8_S3"", ""type"": ""A大桥左线 (IfcBridge)""}, {""guid"": ""1TNv6Ty9L0ivEyiBVafqrG"", ""type"": ""公路 (IfcRoad)""}]"
-28,不适用,不适用
+28,合规,"[{""guid"": ""3EtAD_wPn6E9rLJZ3AnbCn"", ""type"": ""单幅 (IfcBridge)""}, {""guid"": ""1TNv6Ty9L0ivEyiBVafqrG"", ""type"": ""公路 (IfcRoad)""}]"
+28,合规,"[{""guid"": ""3qKZsV4mrF0wOxRjyA8_S3"", ""type"": ""A大桥左线 (IfcBridge)""}, {""guid"": ""1TNv6Ty9L0ivEyiBVafqrG"", ""type"": ""公路 (IfcRoad)""}]"
+27,不适用,不适用
 29,不适用,不适用
 30,不适用,不适用
 31,不适用,不适用
