@@ -1,0 +1,102 @@
+[step_controls]
+init_database = 1 #1 初始化数据库
+recognize_rule_types = 1 #2 识别规范类型
+recognize_ner = 1 #3 识别NER候选实体
+recognize_entity_relations = 1 #4 识别实体关系
+extract_ifc_entities = 1 #5 提取IFC实体
+extract_ifc_element_path = 1 #6 提取IFC元素路径
+align_entities = 1 #7 对齐实体
+calculate_rule_element_groups = 1 #8 计算规则元素组
+extract_ifc_properties = 1 #9 提取IFC属性
+save_property_strategy = 1 #10 保存属性选择策略
+save_relevant_properties = 1 #11 保存相关属性
+generate_descriptions = 1 #12 生成自然语言描述
+check_compliance = 1 #13 检查合规性
+create_report_views = 1 #14 创建报告视图
+create_evaluate_tables = 1 #15 创建评测视图
+
+[current_model]
+type = "DeepSeek-V3"   
+
+[paths]
+log_dir = "Logs"
+database_dir = "database"
+data_dir = "bridge_data"
+
+[building_type]
+type = "桥梁"
+
+[ifc]
+model_path = "bridge_data/ifc_model/proj_003.ifc"
+
+[database]
+path = "database/bridge_database/data.db"
+
+[gpt_config_file]
+path = "config/openai_api.toml"
+
+[knowledge]
+path = "bridge_data/knowledge_base/bridge_knowledge.toml"
+
+[add_info_file]
+path = "bridge_data/add_info/add_info.toml"
+
+[[database.tables]]
+name = "输入_规范列表"
+schema = "规则序号 INTEGER PRIMARY KEY, 规范来源 TEXT, 条款编号 TEXT, 条款子句序号 TEXT, 内容 TEXT"
+columns = ["规则序号", "规范来源", "条款编号", "条款子句序号", "内容"]
+# csv_path = "bridge_data/rules/单规范测试.csv"
+csv_path = "bridge_data/rules/预备规范.csv"
+
+[[database.tables]]
+name = "输入_预定义候选实体标签"
+schema = "序号 INTEGER PRIMARY KEY, 标签 TEXT, 描述 TEXT"
+columns = ["序号", "标签", "描述"]
+csv_path = "bridge_data/predefined_ner_tag/bridge_predefined_ner_tag.csv"
+
+[[database.tables]]
+name = "输入_预定义规范类型"
+schema = "序号 INTEGER PRIMARY KEY, 条文类型 TEXT, 描述 TEXT, 示例 TEXT"
+columns = ["序号", "条文类型", "描述", "示例"]
+csv_path = "bridge_data/rule_types/bridge_rule_types.csv"
+
+[[database.tables]]
+name = "标注_规范类型"
+schema = "规则序号 INTEGER PRIMARY KEY, 规范来源 TEXT, 条款编号 TEXT, 规范内容 TEXT, 识别类型 TEXT, 标注时间 TEXT"
+columns = ["规则序号", "规范来源", "条款编号", "规范内容", "识别类型", "标注时间"]
+csv_path = "bridge_data/label/规范类型标注.csv"
+
+[[database.tables]]
+name = "标注_规范实体识别"
+schema = "规则序号 INTEGER, 实体文本 TEXT, 实体类型 TEXT, 开始位置 INTEGER, 结束位置 INTEGER, 标注时间 TEXT"
+columns = ["规则序号", "实体文本", "实体类型", "开始位置", "结束位置", "标注时间"]
+csv_path = "bridge_data/label/规范实体识别标注.csv"
+
+[[database.tables]]
+name = "标注_IFC实体对齐"
+schema = "规则序号 INTEGER, 规范实体文本 TEXT, 规范实体类型 TEXT, ifc_guid TEXT, ifc_entity_with_type TEXT, 对齐标注时间 TEXT"
+columns = ["规则序号", "规范实体文本", "规范实体类型", "ifc_guid", "ifc_entity_with_type", "对齐标注时间"]
+csv_path = "bridge_data/label/IFC实体对齐标注.csv"
+
+[[database.tables]]
+name = "标注_合规性审查"
+schema = "规则序号 INTEGER, judgment_result TEXT, IFC实体组 TEXT"
+columns = ["规则序号", "judgment_result", "IFC实体组"]
+csv_path = "bridge_data/label/合规性审查人工标注.csv"
+
+[[database.tables]]
+name = "标注_规范实体_IfcClass映射"
+schema = "规则序号 INTEGER, 实体文本 TEXT, 实体类型 TEXT, IFC_Class TEXT"
+columns = ["规则序号", "实体文本", "实体类型", "IFC_Class"]
+csv_path = "bridge_data/label/规范实体_ifcClass 标注.csv"
+
+[[database.tables]]
+name = "IFC实体"
+schema = """
+    guid TEXT PRIMARY KEY,
+    ifc_type TEXT,
+    name TEXT,
+    description TEXT
+"""
+columns = ["guid", "ifc_type", "name", "description"]
+

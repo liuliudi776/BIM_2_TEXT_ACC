@@ -1,0 +1,456 @@
+规则序号,规范实体文本,规范实体类型,ifc_guid,ifc_entity_with_type,对齐标注时间
+22,厂房,建筑物,2OibT2UMLBYgfonVRELIuz,(IfcBuilding),53:12.2
+22,防火墙,建筑物构件,0TDMvFTNHFH99lCoq9QHPU,基本墙:常规 - 200mm:221209 (IfcWall),
+23,承重墙,建筑物构件,0cauBN0lX9uQLK9JxG0zdT,基本墙:常规 - 200mm:222281 (IfcWall),
+23,承重墙,建筑物构件,0cauBN0lX9uQLK9JxG0zuW,基本墙:常规 - 200mm:222132 (IfcWall),
+23,承重墙,建筑物构件,0cauBN0lX9uQLK9JxG0zwB,基本墙:常规 - 200mm:221983 (IfcWall),
+23,承重墙,建筑物构件,0cauBN0lX9uQLK9JxG0z$a,基本墙:常规 - 200mm:221808 (IfcWall),
+23,承重墙,建筑物构件,0TDMvFTNHFH99lCoq9QHUK,基本墙:常规 - 200mm:221651 (IfcWall),
+23,承重墙,建筑物构件,0TDMvFTNHFH99lCoq9QHQr,基本墙:常规 - 200mm:221426 (IfcWall),
+23,承重墙,建筑物构件,0TDMvFTNHFH99lCoq9QHPU,基本墙:常规 - 200mm:221209 (IfcWall),
+23,承重墙,建筑物构件,0TDMvFTNHFH99lCoq9QIbh,基本墙:常规 - 200mm:220972 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjENO,基本墙:常规 - 200mm:238089 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjEP0,基本墙:常规 - 200mm:237969 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjESf,基本墙:常规 - 200mm:237816 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjDYQ,基本墙:常规 - 200mm:237387 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjDbN,基本墙:常规 - 200mm:237190 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjDeH,基本墙:常规 - 200mm:236992 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjDjM,基本墙:常规 - 200mm:236679 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjDlI,基本墙:常规 - 200mm:236547 (IfcWall),
+23,厂房,建筑物,2OibT2UMLBYgfonVRELIuz,(IfcBuilding),
+27,厂房,建筑物,2OibT2UMLBYgfonVRELIuz,(IfcBuilding),53:12.2
+28,厂房,建筑物,2OibT2UMLBYgfonVRELIuz,(IfcBuilding),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIGl,混凝土 - 矩形 - 柱:500 x 500mm 2:217245 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIGf,混凝土 - 矩形 - 柱:500 x 500mm 2:217243 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJ6,混凝土 - 矩形 - 柱:500 x 500mm 2:217204 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJ0,混凝土 - 矩形 - 柱:500 x 500mm 2:217202 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJ2,混凝土 - 矩形 - 柱:500 x 500mm 2:217200 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJS,混凝土 - 矩形 - 柱:500 x 500mm 2:217198 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJU,混凝土 - 矩形 - 柱:500 x 500mm 2:217196 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJO,混凝土 - 矩形 - 柱:500 x 500mm 2:217194 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJQ,混凝土 - 矩形 - 柱:500 x 500mm 2:217192 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJK,混凝土 - 矩形 - 柱:500 x 500mm 2:217190 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJM,混凝土 - 矩形 - 柱:500 x 500mm 2:217188 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJG,混凝土 - 矩形 - 柱:500 x 500mm 2:217186 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJI,混凝土 - 矩形 - 柱:500 x 500mm 2:217184 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJi,混凝土 - 矩形 - 柱:500 x 500mm 2:217182 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJk,混凝土 - 矩形 - 柱:500 x 500mm 2:217180 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKII5,混凝土 - 矩形 - 柱:500 x 500mm 2:217143 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKII7,混凝土 - 矩形 - 柱:500 x 500mm 2:217141 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKII1,混凝土 - 矩形 - 柱:500 x 500mm 2:217139 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKII3,混凝土 - 矩形 - 柱:500 x 500mm 2:217137 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIT,混凝土 - 矩形 - 柱:500 x 500mm 2:217135 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIV,混凝土 - 矩形 - 柱:500 x 500mm 2:217133 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIR,混凝土 - 矩形 - 柱:500 x 500mm 2:217129 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIL,混凝土 - 矩形 - 柱:500 x 500mm 2:217127 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIN,混凝土 - 矩形 - 柱:500 x 500mm 2:217125 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIH,混凝土 - 矩形 - 柱:500 x 500mm 2:217123 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIJ,混凝土 - 矩形 - 柱:500 x 500mm 2:217121 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIj,混凝土 - 矩形 - 柱:500 x 500mm 2:217119 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJj8,混凝土 - 矩形 - 柱:500 x 500mm 2:217082 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJjA,混凝土 - 矩形 - 柱:500 x 500mm 2:217080 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJj4,混凝土 - 矩形 - 柱:500 x 500mm 2:217078 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJj6,混凝土 - 矩形 - 柱:500 x 500mm 2:217076 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJj0,混凝土 - 矩形 - 柱:500 x 500mm 2:217074 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJj2,混凝土 - 矩形 - 柱:500 x 500mm 2:217072 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJjS,混凝土 - 矩形 - 柱:500 x 500mm 2:217070 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJjU,混凝土 - 矩形 - 柱:500 x 500mm 2:217068 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJjO,混凝土 - 矩形 - 柱:500 x 500mm 2:217066 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJjQ,混凝土 - 矩形 - 柱:500 x 500mm 2:217064 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJjK,混凝土 - 矩形 - 柱:500 x 500mm 2:217062 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJjM,混凝土 - 矩形 - 柱:500 x 500mm 2:217060 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJjG,混凝土 - 矩形 - 柱:500 x 500mm 2:217058 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJi9,混凝土 - 矩形 - 柱:500 x 500mm 2:217019 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJiB,混凝土 - 矩形 - 柱:500 x 500mm 2:217017 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJi5,混凝土 - 矩形 - 柱:500 x 500mm 2:217015 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJi7,混凝土 - 矩形 - 柱:500 x 500mm 2:217013 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJi1,混凝土 - 矩形 - 柱:500 x 500mm 2:217011 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJi3,混凝土 - 矩形 - 柱:500 x 500mm 2:217009 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJiT,混凝土 - 矩形 - 柱:500 x 500mm 2:217007 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJiV,混凝土 - 矩形 - 柱:500 x 500mm 2:217005 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJiP,混凝土 - 矩形 - 柱:500 x 500mm 2:217003 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJiR,混凝土 - 矩形 - 柱:500 x 500mm 2:217001 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJiL,混凝土 - 矩形 - 柱:500 x 500mm 2:216999 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJiN,混凝土 - 矩形 - 柱:500 x 500mm 2:216997 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJiH,混凝土 - 矩形 - 柱:500 x 500mm 2:216995 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJlP,混凝土 - 矩形 - 柱:500 x 500mm 2:216939 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJlI,混凝土 - 矩形 - 柱:500 x 500mm 2:216928 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJlZ,混凝土 - 矩形 - 柱:500 x 500mm 2:216913 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJls,混凝土 - 矩形 - 柱:500 x 500mm 2:216900 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJk7,混凝土 - 矩形 - 柱:500 x 500mm 2:216885 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJkQ,混凝土 - 矩形 - 柱:500 x 500mm 2:216872 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJkh,混凝土 - 矩形 - 柱:500 x 500mm 2:216857 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJk_,混凝土 - 矩形 - 柱:500 x 500mm 2:216844 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJfF,混凝土 - 矩形 - 柱:500 x 500mm 2:216829 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJf2,混凝土 - 矩形 - 柱:500 x 500mm 2:216816 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJem,混凝土 - 矩形 - 柱:500 x 500mm 2:216706 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJh1,混凝土 - 矩形 - 柱:500 x 500mm 2:216691 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJao,混凝土 - 矩形 - 柱:500 x 500mm 2:216448 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_$5,混凝土 - 矩形 - 柱:500 x 500mm 2:216381 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_$3,混凝土 - 矩形 - 柱:500 x 500mm 2:216379 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_$1,混凝土 - 矩形 - 柱:500 x 500mm 2:216377 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_$F,混凝土 - 矩形 - 柱:500 x 500mm 2:216375 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_$D,混凝土 - 矩形 - 柱:500 x 500mm 2:216373 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_$B,混凝土 - 矩形 - 柱:500 x 500mm 2:216371 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_$9,混凝土 - 矩形 - 柱:500 x 500mm 2:216369 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_$N,混凝土 - 矩形 - 柱:500 x 500mm 2:216367 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_$L,混凝土 - 矩形 - 柱:500 x 500mm 2:216365 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_$J,混凝土 - 矩形 - 柱:500 x 500mm 2:216363 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_$H,混凝土 - 矩形 - 柱:500 x 500mm 2:216361 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_$V,混凝土 - 矩形 - 柱:500 x 500mm 2:216359 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_$T,混凝土 - 矩形 - 柱:500 x 500mm 2:216357 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_uV,混凝土 - 矩形 - 柱:500 x 500mm 2:216295 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_uT,混凝土 - 矩形 - 柱:500 x 500mm 2:216293 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_uR,混凝土 - 矩形 - 柱:500 x 500mm 2:216291 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_uP,混凝土 - 矩形 - 柱:500 x 500mm 2:216289 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ud,混凝土 - 矩形 - 柱:500 x 500mm 2:216287 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ub,混凝土 - 矩形 - 柱:500 x 500mm 2:216285 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_uZ,混凝土 - 矩形 - 柱:500 x 500mm 2:216283 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_uX,混凝土 - 矩形 - 柱:500 x 500mm 2:216281 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ul,混凝土 - 矩形 - 柱:500 x 500mm 2:216279 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_uj,混凝土 - 矩形 - 柱:500 x 500mm 2:216277 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_uh,混凝土 - 矩形 - 柱:500 x 500mm 2:216275 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_uf,混凝土 - 矩形 - 柱:500 x 500mm 2:216273 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ut,混凝土 - 矩形 - 柱:500 x 500mm 2:216271 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_vt,混凝土 - 矩形 - 柱:500 x 500mm 2:216207 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_vr,混凝土 - 矩形 - 柱:500 x 500mm 2:216205 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_vp,混凝土 - 矩形 - 柱:500 x 500mm 2:216203 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_vn,混凝土 - 矩形 - 柱:500 x 500mm 2:216201 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_v$,混凝土 - 矩形 - 柱:500 x 500mm 2:216199 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_vz,混凝土 - 矩形 - 柱:500 x 500mm 2:216197 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_vx,混凝土 - 矩形 - 柱:500 x 500mm 2:216195 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_vv,混凝土 - 矩形 - 柱:500 x 500mm 2:216193 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_w7,混凝土 - 矩形 - 柱:500 x 500mm 2:216191 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_w5,混凝土 - 矩形 - 柱:500 x 500mm 2:216189 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_w3,混凝土 - 矩形 - 柱:500 x 500mm 2:216187 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_w1,混凝土 - 矩形 - 柱:500 x 500mm 2:216185 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_wF,混凝土 - 矩形 - 柱:500 x 500mm 2:216183 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_x1,混凝土 - 矩形 - 柱:500 x 500mm 2:216121 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_xF,混凝土 - 矩形 - 柱:500 x 500mm 2:216119 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_xD,混凝土 - 矩形 - 柱:500 x 500mm 2:216117 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_xB,混凝土 - 矩形 - 柱:500 x 500mm 2:216115 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_x9,混凝土 - 矩形 - 柱:500 x 500mm 2:216113 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_xN,混凝土 - 矩形 - 柱:500 x 500mm 2:216111 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_xL,混凝土 - 矩形 - 柱:500 x 500mm 2:216109 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_xJ,混凝土 - 矩形 - 柱:500 x 500mm 2:216107 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_xH,混凝土 - 矩形 - 柱:500 x 500mm 2:216105 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_xV,混凝土 - 矩形 - 柱:500 x 500mm 2:216103 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_xT,混凝土 - 矩形 - 柱:500 x 500mm 2:216101 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_xR,混凝土 - 矩形 - 柱:500 x 500mm 2:216099 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_xP,混凝土 - 矩形 - 柱:500 x 500mm 2:216097 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_aR,混凝土 - 矩形 - 柱:500 x 500mm 2:216035 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_aP,混凝土 - 矩形 - 柱:500 x 500mm 2:216033 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ad,混凝土 - 矩形 - 柱:500 x 500mm 2:216031 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ab,混凝土 - 矩形 - 柱:500 x 500mm 2:216029 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_aZ,混凝土 - 矩形 - 柱:500 x 500mm 2:216027 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_aX,混凝土 - 矩形 - 柱:500 x 500mm 2:216025 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_al,混凝土 - 矩形 - 柱:500 x 500mm 2:216023 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_aj,混凝土 - 矩形 - 柱:500 x 500mm 2:216021 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ah,混凝土 - 矩形 - 柱:500 x 500mm 2:216019 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_af,混凝土 - 矩形 - 柱:500 x 500mm 2:216017 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_at,混凝土 - 矩形 - 柱:500 x 500mm 2:216015 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ar,混凝土 - 矩形 - 柱:500 x 500mm 2:216013 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ap,混凝土 - 矩形 - 柱:500 x 500mm 2:216011 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_br,混凝土 - 矩形 - 柱:500 x 500mm 2:215949 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_bp,混凝土 - 矩形 - 柱:500 x 500mm 2:215947 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_bn,混凝土 - 矩形 - 柱:500 x 500mm 2:215945 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_b$,混凝土 - 矩形 - 柱:500 x 500mm 2:215943 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_bz,混凝土 - 矩形 - 柱:500 x 500mm 2:215941 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_bx,混凝土 - 矩形 - 柱:500 x 500mm 2:215939 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_bv,混凝土 - 矩形 - 柱:500 x 500mm 2:215937 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_c7,混凝土 - 矩形 - 柱:500 x 500mm 2:215935 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_c5,混凝土 - 矩形 - 柱:500 x 500mm 2:215933 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_c3,混凝土 - 矩形 - 柱:500 x 500mm 2:215931 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_c1,混凝土 - 矩形 - 柱:500 x 500mm 2:215929 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_cF,混凝土 - 矩形 - 柱:500 x 500mm 2:215927 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_cD,混凝土 - 矩形 - 柱:500 x 500mm 2:215925 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_dB,混凝土 - 矩形 - 柱:500 x 500mm 2:215859 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_d9,混凝土 - 矩形 - 柱:500 x 500mm 2:215857 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_dN,混凝土 - 矩形 - 柱:500 x 500mm 2:215855 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_dL,混凝土 - 矩形 - 柱:500 x 500mm 2:215853 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_dJ,混凝土 - 矩形 - 柱:500 x 500mm 2:215851 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_dH,混凝土 - 矩形 - 柱:500 x 500mm 2:215849 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_dV,混凝土 - 矩形 - 柱:500 x 500mm 2:215847 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_dT,混凝土 - 矩形 - 柱:500 x 500mm 2:215845 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_dR,混凝土 - 矩形 - 柱:500 x 500mm 2:215843 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_dP,混凝土 - 矩形 - 柱:500 x 500mm 2:215841 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_dd,混凝土 - 矩形 - 柱:500 x 500mm 2:215839 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_db,混凝土 - 矩形 - 柱:500 x 500mm 2:215837 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_dZ,混凝土 - 矩形 - 柱:500 x 500mm 2:215835 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Wb,混凝土 - 矩形 - 柱:500 x 500mm 2:215773 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_WZ,混凝土 - 矩形 - 柱:500 x 500mm 2:215771 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_WX,混凝土 - 矩形 - 柱:500 x 500mm 2:215769 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Wl,混凝土 - 矩形 - 柱:500 x 500mm 2:215767 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Wj,混凝土 - 矩形 - 柱:500 x 500mm 2:215765 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Wh,混凝土 - 矩形 - 柱:500 x 500mm 2:215763 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Wf,混凝土 - 矩形 - 柱:500 x 500mm 2:215761 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Wt,混凝土 - 矩形 - 柱:500 x 500mm 2:215759 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Wr,混凝土 - 矩形 - 柱:500 x 500mm 2:215757 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Wp,混凝土 - 矩形 - 柱:500 x 500mm 2:215755 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Wn,混凝土 - 矩形 - 柱:500 x 500mm 2:215753 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_W$,混凝土 - 矩形 - 柱:500 x 500mm 2:215751 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Wz,混凝土 - 矩形 - 柱:500 x 500mm 2:215749 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_X$,混凝土 - 矩形 - 柱:500 x 500mm 2:215687 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Xz,混凝土 - 矩形 - 柱:500 x 500mm 2:215685 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Xx,混凝土 - 矩形 - 柱:500 x 500mm 2:215683 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Xv,混凝土 - 矩形 - 柱:500 x 500mm 2:215681 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Y7,混凝土 - 矩形 - 柱:500 x 500mm 2:215679 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Y5,混凝土 - 矩形 - 柱:500 x 500mm 2:215677 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Y3,混凝土 - 矩形 - 柱:500 x 500mm 2:215675 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Y1,混凝土 - 矩形 - 柱:500 x 500mm 2:215673 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_YF,混凝土 - 矩形 - 柱:500 x 500mm 2:215671 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_YD,混凝土 - 矩形 - 柱:500 x 500mm 2:215669 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_YB,混凝土 - 矩形 - 柱:500 x 500mm 2:215667 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Y9,混凝土 - 矩形 - 柱:500 x 500mm 2:215665 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_YN,混凝土 - 矩形 - 柱:500 x 500mm 2:215663 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Z9,混凝土 - 矩形 - 柱:500 x 500mm 2:215601 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ZN,混凝土 - 矩形 - 柱:500 x 500mm 2:215599 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ZL,混凝土 - 矩形 - 柱:500 x 500mm 2:215597 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ZJ,混凝土 - 矩形 - 柱:500 x 500mm 2:215595 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ZH,混凝土 - 矩形 - 柱:500 x 500mm 2:215593 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ZV,混凝土 - 矩形 - 柱:500 x 500mm 2:215591 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ZT,混凝土 - 矩形 - 柱:500 x 500mm 2:215589 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ZR,混凝土 - 矩形 - 柱:500 x 500mm 2:215587 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ZP,混凝土 - 矩形 - 柱:500 x 500mm 2:215585 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Zd,混凝土 - 矩形 - 柱:500 x 500mm 2:215583 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Zb,混凝土 - 矩形 - 柱:500 x 500mm 2:215581 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ZZ,混凝土 - 矩形 - 柱:500 x 500mm 2:215579 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ZX,混凝土 - 矩形 - 柱:500 x 500mm 2:215577 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_iZ,混凝土 - 矩形 - 柱:500 x 500mm 2:215515 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_iX,混凝土 - 矩形 - 柱:500 x 500mm 2:215513 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_il,混凝土 - 矩形 - 柱:500 x 500mm 2:215511 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ij,混凝土 - 矩形 - 柱:500 x 500mm 2:215509 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ih,混凝土 - 矩形 - 柱:500 x 500mm 2:215507 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_if,混凝土 - 矩形 - 柱:500 x 500mm 2:215505 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_it,混凝土 - 矩形 - 柱:500 x 500mm 2:215503 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ir,混凝土 - 矩形 - 柱:500 x 500mm 2:215501 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ip,混凝土 - 矩形 - 柱:500 x 500mm 2:215499 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_in,混凝土 - 矩形 - 柱:500 x 500mm 2:215497 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_i$,混凝土 - 矩形 - 柱:500 x 500mm 2:215495 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_iz,混凝土 - 矩形 - 柱:500 x 500mm 2:215493 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_ix,混凝土 - 矩形 - 柱:500 x 500mm 2:215491 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_k0,混凝土 - 矩形 - 柱:500 x 500mm 2:215416 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_kG,混凝土 - 矩形 - 柱:500 x 500mm 2:215400 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_kY,混凝土 - 矩形 - 柱:500 x 500mm 2:215386 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_kq,混凝土 - 矩形 - 柱:500 x 500mm 2:215372 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_l2,混凝土 - 矩形 - 柱:500 x 500mm 2:215354 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_lI,混凝土 - 矩形 - 柱:500 x 500mm 2:215338 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_fM,混凝土 - 矩形 - 柱:500 x 500mm 2:215214 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_fu,混凝土 - 矩形 - 柱:500 x 500mm 2:215168 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_g6,混凝土 - 矩形 - 柱:500 x 500mm 2:215166 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_gh,混凝土 - 矩形 - 柱:500 x 500mm 2:215123 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_gf,混凝土 - 矩形 - 柱:500 x 500mm 2:215121 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_Jw,混凝土 - 矩形 - 柱:500 x 500mm 2:214530 (IfcColumn),53:12.2
+28,柱,建筑物构件,0gKFhH4357pRQxVB7vb_0Y,混凝土 - 矩形 - 柱:500 x 500mm 2:213722 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIQP,混凝土 - 矩形 - 柱:500 x 500mm 2:217643 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIQR,混凝土 - 矩形 - 柱:500 x 500mm 2:217641 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIQL,混凝土 - 矩形 - 柱:500 x 500mm 2:217639 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIQN,混凝土 - 矩形 - 柱:500 x 500mm 2:217637 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIQH,混凝土 - 矩形 - 柱:500 x 500mm 2:217635 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIQJ,混凝土 - 矩形 - 柱:500 x 500mm 2:217633 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIQj,混凝土 - 矩形 - 柱:500 x 500mm 2:217631 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIQl,混凝土 - 矩形 - 柱:500 x 500mm 2:217629 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIQf,混凝土 - 矩形 - 柱:500 x 500mm 2:217627 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIQh,混凝土 - 矩形 - 柱:500 x 500mm 2:217625 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIQb,混凝土 - 矩形 - 柱:500 x 500mm 2:217623 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIQd,混凝土 - 矩形 - 柱:500 x 500mm 2:217621 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIQX,混凝土 - 矩形 - 柱:500 x 500mm 2:217619 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKILU,混凝土 - 矩形 - 柱:500 x 500mm 2:217580 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKILO,混凝土 - 矩形 - 柱:500 x 500mm 2:217578 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKILQ,混凝土 - 矩形 - 柱:500 x 500mm 2:217576 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKILK,混凝土 - 矩形 - 柱:500 x 500mm 2:217574 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKILM,混凝土 - 矩形 - 柱:500 x 500mm 2:217572 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKILG,混凝土 - 矩形 - 柱:500 x 500mm 2:217570 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKILI,混凝土 - 矩形 - 柱:500 x 500mm 2:217568 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKILi,混凝土 - 矩形 - 柱:500 x 500mm 2:217566 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKILk,混凝土 - 矩形 - 柱:500 x 500mm 2:217564 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKILe,混凝土 - 矩形 - 柱:500 x 500mm 2:217562 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKILg,混凝土 - 矩形 - 柱:500 x 500mm 2:217560 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKILa,混凝土 - 矩形 - 柱:500 x 500mm 2:217558 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKILc,混凝土 - 矩形 - 柱:500 x 500mm 2:217556 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIKV,混凝土 - 矩形 - 柱:500 x 500mm 2:217517 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIKP,混凝土 - 矩形 - 柱:500 x 500mm 2:217515 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIKR,混凝土 - 矩形 - 柱:500 x 500mm 2:217513 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIKL,混凝土 - 矩形 - 柱:500 x 500mm 2:217511 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIKN,混凝土 - 矩形 - 柱:500 x 500mm 2:217509 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIKH,混凝土 - 矩形 - 柱:500 x 500mm 2:217507 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIKJ,混凝土 - 矩形 - 柱:500 x 500mm 2:217505 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIKj,混凝土 - 矩形 - 柱:500 x 500mm 2:217503 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIKf,混凝土 - 矩形 - 柱:500 x 500mm 2:217499 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIKh,混凝土 - 矩形 - 柱:500 x 500mm 2:217497 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIKb,混凝土 - 矩形 - 柱:500 x 500mm 2:217495 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIKd,混凝土 - 矩形 - 柱:500 x 500mm 2:217493 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIN2,混凝土 - 矩形 - 柱:500 x 500mm 2:217456 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKINS,混凝土 - 矩形 - 柱:500 x 500mm 2:217454 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKINU,混凝土 - 矩形 - 柱:500 x 500mm 2:217452 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKINO,混凝土 - 矩形 - 柱:500 x 500mm 2:217450 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKINQ,混凝土 - 矩形 - 柱:500 x 500mm 2:217448 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKINK,混凝土 - 矩形 - 柱:500 x 500mm 2:217446 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKINM,混凝土 - 矩形 - 柱:500 x 500mm 2:217444 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKING,混凝土 - 矩形 - 柱:500 x 500mm 2:217442 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKINI,混凝土 - 矩形 - 柱:500 x 500mm 2:217440 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKINi,混凝土 - 矩形 - 柱:500 x 500mm 2:217438 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKINk,混凝土 - 矩形 - 柱:500 x 500mm 2:217436 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKINe,混凝土 - 矩形 - 柱:500 x 500mm 2:217434 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKINg,混凝土 - 矩形 - 柱:500 x 500mm 2:217432 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIM3,混凝土 - 矩形 - 柱:500 x 500mm 2:217393 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIMT,混凝土 - 矩形 - 柱:500 x 500mm 2:217391 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIMV,混凝土 - 矩形 - 柱:500 x 500mm 2:217389 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIMP,混凝土 - 矩形 - 柱:500 x 500mm 2:217387 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIMR,混凝土 - 矩形 - 柱:500 x 500mm 2:217385 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIML,混凝土 - 矩形 - 柱:500 x 500mm 2:217383 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIMN,混凝土 - 矩形 - 柱:500 x 500mm 2:217381 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIMH,混凝土 - 矩形 - 柱:500 x 500mm 2:217379 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIMJ,混凝土 - 矩形 - 柱:500 x 500mm 2:217377 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIMj,混凝土 - 矩形 - 柱:500 x 500mm 2:217375 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIMl,混凝土 - 矩形 - 柱:500 x 500mm 2:217373 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIMf,混凝土 - 矩形 - 柱:500 x 500mm 2:217371 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIMh,混凝土 - 矩形 - 柱:500 x 500mm 2:217369 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIH0,混凝土 - 矩形 - 柱:500 x 500mm 2:217330 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIH2,混凝土 - 矩形 - 柱:500 x 500mm 2:217328 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIHS,混凝土 - 矩形 - 柱:500 x 500mm 2:217326 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIHU,混凝土 - 矩形 - 柱:500 x 500mm 2:217324 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIHO,混凝土 - 矩形 - 柱:500 x 500mm 2:217322 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIHQ,混凝土 - 矩形 - 柱:500 x 500mm 2:217320 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIHK,混凝土 - 矩形 - 柱:500 x 500mm 2:217318 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIHM,混凝土 - 矩形 - 柱:500 x 500mm 2:217316 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIHG,混凝土 - 矩形 - 柱:500 x 500mm 2:217314 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIHI,混凝土 - 矩形 - 柱:500 x 500mm 2:217312 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIHi,混凝土 - 矩形 - 柱:500 x 500mm 2:217310 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIHk,混凝土 - 矩形 - 柱:500 x 500mm 2:217308 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIHe,混凝土 - 矩形 - 柱:500 x 500mm 2:217306 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIG1,混凝土 - 矩形 - 柱:500 x 500mm 2:217267 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIG3,混凝土 - 矩形 - 柱:500 x 500mm 2:217265 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIGT,混凝土 - 矩形 - 柱:500 x 500mm 2:217263 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIGV,混凝土 - 矩形 - 柱:500 x 500mm 2:217261 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIGP,混凝土 - 矩形 - 柱:500 x 500mm 2:217259 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIGR,混凝土 - 矩形 - 柱:500 x 500mm 2:217257 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIGL,混凝土 - 矩形 - 柱:500 x 500mm 2:217255 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIGN,混凝土 - 矩形 - 柱:500 x 500mm 2:217253 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIGH,混凝土 - 矩形 - 柱:500 x 500mm 2:217251 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIGJ,混凝土 - 矩形 - 柱:500 x 500mm 2:217249 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIGj,混凝土 - 矩形 - 柱:500 x 500mm 2:217247 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIP,混凝土 - 矩形 - 柱:500 x 500mm 2:217131 (IfcColumn),
+29,厂房,建筑物,2OibT2UMLBYgfonVRELIuz,(IfcBuilding),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1k0,热轧H型钢:HW400x400x13x21:219077 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1lz,热轧H型钢:HW400x400x13x21:219064 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1lY,热轧H型钢:HW400x400x13x21:219047 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1lJ,热轧H型钢:HW400x400x13x21:219030 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1l0,热轧H型钢:HW400x400x13x21:219013 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1in,热轧H型钢:HW400x400x13x21:218996 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1j_,热轧H型钢:HW400x400x13x21:218939 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1jz,热轧H型钢:HW400x400x13x21:218936 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1jj,热轧H型钢:HW400x400x13x21:218920 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1jW,热轧H型钢:HW400x400x13x21:218917 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1jC,热轧H型钢:HW400x400x13x21:218889 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1gU,热轧H型钢:HW400x400x13x21:218843 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1gK,热轧H型钢:HW400x400x13x21:218833 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1g0,热轧H型钢:HW400x400x13x21:218821 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1hy,热轧H型钢:HW400x400x13x21:218809 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1he,热轧H型钢:HW400x400x13x21:218797 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1ha,热轧H型钢:HW400x400x13x21:218785 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1en,热轧H型钢:HW400x400x13x21:218740 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1ej,热轧H型钢:HW400x400x13x21:218728 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1eP,热轧H型钢:HW400x400x13x21:218716 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1eL,热轧H型钢:HW400x400x13x21:218704 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1e3,热轧H型钢:HW400x400x13x21:218694 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1cm,热轧H型钢:HW400x400x13x21:218613 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1dr,热轧H型钢:HW400x400x13x21:218544 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1av,热轧H型钢:HW400x400x13x21:218492 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1at,热轧H型钢:HW400x400x13x21:218482 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1aZ,热轧H型钢:HW400x400x13x21:218470 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1aP,热轧H型钢:HW400x400x13x21:218460 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1aH,热轧H型钢:HW400x400x13x21:218452 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1aF,热轧H型钢:HW400x400x13x21:218442 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1a5,热轧H型钢:HW400x400x13x21:218432 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1bn,热轧H型钢:HW400x400x13x21:218420 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1bX,热轧H型钢:HW400x400x13x21:218404 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1bV,热轧H型钢:HW400x400x13x21:218394 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1bL,热轧H型钢:HW400x400x13x21:218384 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1b7,热轧H型钢:HW400x400x13x21:218370 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1YD,热轧H型钢:HW400x400x13x21:218312 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1Zx,热轧H型钢:HW400x400x13x21:218302 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1Zt,热轧H型钢:HW400x400x13x21:218290 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1ZZ,热轧H型钢:HW400x400x13x21:218278 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1ZT,热轧H型钢:HW400x400x13x21:218264 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1ZB,热轧H型钢:HW400x400x13x21:218254 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1Z1,热轧H型钢:HW400x400x13x21:218244 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1Wn,热轧H型钢:HW400x400x13x21:218228 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1Wl,热轧H型钢:HW400x400x13x21:218218 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1Wb,热轧H型钢:HW400x400x13x21:218208 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1WH,热轧H型钢:HW400x400x13x21:218196 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1_Q,热轧H型钢:HW400x400x13x21:218079 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1yM,热轧H型钢:HW400x400x13x21:217939 (IfcBeam),53:12.2
+29,梁,建筑物构件,0BQfC5xMrD0RyTBtqcy1kJ,热轧H型钢:HW400x400x13x21:219094 (IfcBeam),
+30,厂房,建筑物,2OibT2UMLBYgfonVRELIuz,(IfcBuilding),53:12.2
+30,楼板,建筑物构件,2WoqTfK6H4ixXkt521zO2i,楼板:常规 - 120mm 2:219792 (IfcSlab),53:12.2
+30,楼板,建筑物构件,2WoqTfK6H4ixXkt521zOtT,楼板:常规 - 120mm 2:219105 (IfcSlab),53:12.2
+44,厂房,建筑物,2OibT2UMLBYgfonVRELIuz,(IfcBuilding),53:12.2
+44,楼层,建筑物楼层,2OibT2UMLBYgfonVOngj2l,地面 (IfcBuildingStorey),53:12.2
+44,楼层,建筑物楼层,2OibT2UMLBYgfonVOngUg_,一层窗底 (IfcBuildingStorey),53:12.2
+44,楼层,建筑物楼层,2OibT2UMLBYgfonVOngjlZ,二层楼面 (IfcBuildingStorey),53:12.2
+44,楼层,建筑物楼层,2OibT2UMLBYgfonVOngUeO,二层窗底 (IfcBuildingStorey),53:12.2
+44,楼层,建筑物楼层,2OibT2UMLBYgfonVOngUh$,二层楼顶 (IfcBuildingStorey),53:12.2
+44,防火分区,建筑物空间,1wXU_jTED61P7ZYfArwKmy,13 (IfcSpace),
+44,防火分区,建筑物空间,1wXU_jTED61P7ZYfArwKmh,8 (IfcSpace),
+45,厂房,建筑物,2OibT2UMLBYgfonVRELIuz,(IfcBuilding),53:12.2
+45,防火分区,建筑物空间,1wXU_jTED61P7ZYfArwKmy,13 (IfcSpace),53:12.2
+45,防火分区,建筑物空间,1wXU_jTED61P7ZYfArwKmh,8 (IfcSpace),53:12.2
+44,安全出口,建筑物中的某个位置,2PwpcYxEv3BQDGz$YVbYWf,双扇推拉门 - 墙外:4000 x 4000mm 2:229880 (IfcDoor),
+44,安全出口,建筑物中的某个位置,2PwpcYxEv3BQDGz$YVbYZD,双扇推拉门 - 墙外:4000 x 4000mm 2:229660 (IfcDoor),
+45,安全出口,建筑物中的某个位置,2PwpcYxEv3BQDGz$YVbYWf,双扇推拉门 - 墙外:4000 x 4000mm 2:229880 (IfcDoor),
+45,安全出口,建筑物中的某个位置,2PwpcYxEv3BQDGz$YVbYZD,双扇推拉门 - 墙外:4000 x 4000mm 2:229660 (IfcDoor),
+22,厂房,建筑物,2OibT2UMLBYgfonVRELIuz,(IfcBuilding),53:12.2
+22,防火墙,建筑物构件,0TDMvFTNHFH99lCoq9QHPU,基本墙:常规 - 200mm:221209 (IfcWall),
+23,承重墙,建筑物构件,0cauBN0lX9uQLK9JxG0zdT,基本墙:常规 - 200mm:222281 (IfcWall),
+23,承重墙,建筑物构件,0cauBN0lX9uQLK9JxG0zuW,基本墙:常规 - 200mm:222132 (IfcWall),
+23,承重墙,建筑物构件,0cauBN0lX9uQLK9JxG0zwB,基本墙:常规 - 200mm:221983 (IfcWall),
+23,承重墙,建筑物构件,0cauBN0lX9uQLK9JxG0z$a,基本墙:常规 - 200mm:221808 (IfcWall),
+23,承重墙,建筑物构件,0TDMvFTNHFH99lCoq9QHUK,基本墙:常规 - 200mm:221651 (IfcWall),
+23,承重墙,建筑物构件,0TDMvFTNHFH99lCoq9QHQr,基本墙:常规 - 200mm:221426 (IfcWall),
+23,承重墙,建筑物构件,0TDMvFTNHFH99lCoq9QHPU,基本墙:常规 - 200mm:221209 (IfcWall),
+23,承重墙,建筑物构件,0TDMvFTNHFH99lCoq9QIbh,基本墙:常规 - 200mm:220972 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjENO,基本墙:常规 - 200mm:238089 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjEP0,基本墙:常规 - 200mm:237969 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjESf,基本墙:常规 - 200mm:237816 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjDYQ,基本墙:常规 - 200mm:237387 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjDbN,基本墙:常规 - 200mm:237190 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjDeH,基本墙:常规 - 200mm:236992 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjDjM,基本墙:常规 - 200mm:236679 (IfcWall),
+23,承重墙,建筑物构件,1Dkc0PZSH8QhoXanFZjDlI,基本墙:常规 - 200mm:236547 (IfcWall),
+23,厂房,建筑物,2OibT2UMLBYgfonVRELIuz,(IfcBuilding),
+27,厂房,建筑物,2OibT2UMLBYgfonVRELIuz,(IfcBuilding),53:12.2
+28,厂房,建筑物,2OibT2UMLBYgfonVRELIuz,(IfcBuilding),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIGl,混凝土 - 矩形 - 柱:500 x 500mm 2:217245 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIGf,混凝土 - 矩形 - 柱:500 x 500mm 2:217243 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJ6,混凝土 - 矩形 - 柱:500 x 500mm 2:217204 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJ0,混凝土 - 矩形 - 柱:500 x 500mm 2:217202 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJ2,混凝土 - 矩形 - 柱:500 x 500mm 2:217200 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJS,混凝土 - 矩形 - 柱:500 x 500mm 2:217198 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJU,混凝土 - 矩形 - 柱:500 x 500mm 2:217196 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJO,混凝土 - 矩形 - 柱:500 x 500mm 2:217194 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJQ,混凝土 - 矩形 - 柱:500 x 500mm 2:217192 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJK,混凝土 - 矩形 - 柱:500 x 500mm 2:217190 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJM,混凝土 - 矩形 - 柱:500 x 500mm 2:217188 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJG,混凝土 - 矩形 - 柱:500 x 500mm 2:217186 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJI,混凝土 - 矩形 - 柱:500 x 500mm 2:217184 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJi,混凝土 - 矩形 - 柱:500 x 500mm 2:217182 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIJk,混凝土 - 矩形 - 柱:500 x 500mm 2:217180 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKII5,混凝土 - 矩形 - 柱:500 x 500mm 2:217143 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKII7,混凝土 - 矩形 - 柱:500 x 500mm 2:217141 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKII1,混凝土 - 矩形 - 柱:500 x 500mm 2:217139 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKII3,混凝土 - 矩形 - 柱:500 x 500mm 2:217137 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIT,混凝土 - 矩形 - 柱:500 x 500mm 2:217135 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIV,混凝土 - 矩形 - 柱:500 x 500mm 2:217133 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIR,混凝土 - 矩形 - 柱:500 x 500mm 2:217129 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIL,混凝土 - 矩形 - 柱:500 x 500mm 2:217127 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIN,混凝土 - 矩形 - 柱:500 x 500mm 2:217125 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIH,混凝土 - 矩形 - 柱:500 x 500mm 2:217123 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIJ,混凝土 - 矩形 - 柱:500 x 500mm 2:217121 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKIIj,混凝土 - 矩形 - 柱:500 x 500mm 2:217119 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJj8,混凝土 - 矩形 - 柱:500 x 500mm 2:217082 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJjA,混凝土 - 矩形 - 柱:500 x 500mm 2:217080 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJj4,混凝土 - 矩形 - 柱:500 x 500mm 2:217078 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJj6,混凝土 - 矩形 - 柱:500 x 500mm 2:217076 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJj0,混凝土 - 矩形 - 柱:500 x 500mm 2:217074 (IfcColumn),53:12.2
+28,柱,建筑物构件,2TJvWVuN51mepwyN3rKJj2,混凝土 - 矩形 - 柱:500 x 500mm 2:217072 (IfcColumn),53:12.2

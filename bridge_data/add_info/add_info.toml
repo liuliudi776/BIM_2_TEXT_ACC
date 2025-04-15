@@ -1,0 +1,25 @@
+# Bridge specification additional information configuration file
+# 规范额外信息配置文件
+
+[rules]
+# Rule-specific additional information
+# 为特定规则添加额外信息
+# Format: [rules.<rule_number>]
+
+# [rules.1]
+# environment_grade = "四级"          # 环境等级
+# design_life = "100年"              # 设计使用年限
+# seismic_fortification = "7度"      # 抗震设防烈度
+# location = "沿海地区"              # 所在地区
+
+# [rules.2]
+# construction_tech = "预制拼装"      # 施工工艺
+# concrete_grade = "C50"             # 混凝土强度等级
+# rebar_type = "HRB400"             # 钢筋型号
+
+[global]
+# Global additional information applicable to all rules
+# 全局额外信息，适用于所有规则
+project_name = "示范桥梁工程"       # 项目名称
+design_unit = "XX设计院"           # 设计单位
+road_type = "高速公路"    # 道路类型

@@ -1,0 +1,134 @@
+# Python .gitignore
+
+# 字节编译/优化文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+**/*.pyc
+
+# C扩展
+*.so
+
+# 分发/打包目录
+dist/
+build/
+*.egg-info/
+*.egg
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE配置
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# 单元测试/覆盖率报告
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# 环境文件
+.env
+.env.local
+.env.*.local
+
+# 日志文件
+*.log
+logs/
+log/
+
+# 数据库文件
+*.db
+*.sqlite
+*.sqlite3
+
+# 本地开发配置
+local_settings.py
+settings_local.py
+
+# 文档生成
+docs/_build/
+doc/build/
+
+# 包管理器
+pip-log.txt
+pip-delete-this-directory.txt
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Rope项目设置
+.ropeproject
+
+# mkdocs文档
+/site
+
+# Django
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+
+# Flask
+instance/
+
+# Scrapy
+.scrapy
+
+# Sphinx文档
+docs/_build/
+
+# PyBuilder
+target/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyflow
+__pypackages__/
+
+# pdm
+.pdm.toml
+
+# poetry
+poetry.lock
+
+# 自定义忽略
+credentials.json
+secrets.yaml
+config.local.ini
+GPT_Logs
+Logs/
+openai_cache
+openai_cache/cache.db

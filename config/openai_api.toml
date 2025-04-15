@@ -1,0 +1,143 @@
+# ---------------------------
+# DeepSeek-R1 系列
+# ---------------------------
+[[models]]
+name = "openrouter-DeepSeek-R1"
+type = "DeepSeek-R1"
+deployment = "OpenRouter"
+api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxx"   # 示例key
+api_base = "http://example.com/v1"
+model = "deepseek/deepseek-r1"
+priority = 1
+
+[[models]]
+name = "siliconflow-DeepSeek-R1"
+type = "DeepSeek-R1"
+deployment = "SiliconFlow"
+api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxx"
+api_base = "http://example.com/v1"
+model = "deepseek-ai/DeepSeek-R1"
+priority = 1
+
+# ---------------------------
+# DeepSeek-V3 系列
+# ---------------------------
+[[models]]
+name = "siliconflow-DeepSeek-V3"
+type = "DeepSeek-V3"
+deployment = "SiliconFlow"
+api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxx"
+api_base = "http://example.com/v1"
+model = "Pro/deepseek-ai/DeepSeek-V3"
+priority = 1
+
+[[models]]
+name = "deepseek"
+type = "DeepSeek-V3"
+deployment = "deepseek"
+api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxx"
+api_base = "https://api.deepseek.com"
+model = "deepseek-chat"
+priority = 1
+
+[[models]]
+name = "deepseek-课题组"
+type = "DeepSeek-V3"
+deployment = "deepseek-课题组"
+api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxx"
+api_base = "https://api.deepseek.com"
+model = "deepseek-chat"
+priority = 1
+
+# ---------------------------
+# SiliconFlow DeepSeek-R1-Distill-Qwen 系列
+# ---------------------------
+[[models]]
+name = "siliconflow-Qwen2.5-14B-Instruct"
+type = "DeepSeek-R1-Distill-Qwen-14B"
+deployment = "SiliconFlow"
+api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxx"
+api_base = "http://example.com/v1"
+model = "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B"
+priority = 1
+
+[[models]]
+name = "siliconflow-Qwen2.5-7B-Instruct"
+type = "DeepSeek-R1-Distill-Qwen-7B"
+deployment = "SiliconFlow"
+api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxx"
+api_base = "http://example.com/v1"
+model = "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
+priority = 1
+
+[[models]]
+name = "siliconflow-Qwen2.5-1.5B-Instruct"
+type = "DeepSeek-R1-Distill-Qwen-1.5B"
+deployment = "SiliconFlow"
+api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxx"
+api_base = "http://example.com/v1"
+model = "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
+priority = 1
+
+# ---------------------------
+# SiliconFlow Qwen2.5 Instruct 系列
+# ---------------------------
+[[models]]
+name = "siliconflow-Qwen2.5-7B-Instruct"
+type = "Qwen2.5-7B-Instruct"
+deployment = "SiliconFlow"
+api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxx"
+api_base = "http://example.com/v1"
+model = "Qwen/Qwen2.5-7B-Instruct"
+priority = 1
+
+[[models]]
+name = "siliconflow-Qwen2.5-14B-Instruct"
+type = "Qwen2.5-14B-Instruct"
+deployment = "SiliconFlow"
+api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxx"
+api_base = "http://example.com/v1"
+model = "Qwen/Qwen2.5-14B-Instruct"
+priority = 1
+
+[[models]]
+name = "siliconflow-Qwen2.5-32B-Instruct"
+type = "Qwen2.5-32B-Instruct"
+deployment = "SiliconFlow"
+api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxx"
+api_base = "http://example.com/v1"
+model = "Qwen/Qwen2.5-32B-Instruct"
+priority = 1
+
+[[models]]
+name = "siliconflow-Qwen2.5-72B-Instruct"
+type = "Qwen2.5-72B-Instruct"
+deployment = "SiliconFlow"
+api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxx"
+api_base = "http://example.com/v1"
+model = "Qwen/Qwen2.5-72B-Instruct"
+priority = 1
+
+# ---------------------------
+# gpt-4o-mini 系列
+# ---------------------------
+[[models]]
+name = "gpt-4o-mini"
+type = "gpt-4o-mini"
+deployment = "OpenRouter"
+api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxx"
+api_base = "http://example.com/v1"
+model = "gpt-4o-mini"
+priority = 1
+
+# ---------------------------
+# gpt-4o 系列
+# ---------------------------
+[[models]]
+name = "gpt-4o"
+type = "gpt-4o"
+deployment = "azure"
+api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxx"
+api_base = "http://example.com/v1"
+model = "gpt-4o"
+priority = 1

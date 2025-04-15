@@ -1,0 +1,47 @@
+规则序号,judgment_result,IFC实体组
+1,合规,"[{""guid"": ""1TNv6Ty9L0ivEyiBVafqrG"", ""type"": ""公路 (IfcRoad)""}, {""guid"": ""3EtAD_wPn6E9rLJZ3AnbCn"", ""type"": ""单幅 (IfcBridge)""}]"
+1,合规,"[{""guid"": ""1TNv6Ty9L0ivEyiBVafqrG"", ""type"": ""公路 (IfcRoad)""}, {""guid"": ""3qKZsV4mrF0wOxRjyA8_S3"", ""type"": ""A大桥左线 (IfcBridge)""}]"
+2,合规,"[{""guid"": ""3EtAD_wPn6E9rLJZ3AnbCn"", ""type"": ""单幅 (IfcBridge)""}, {""guid"": ""1TNv6Ty9L0ivEyiBVafqrG"", ""type"": ""公路 (IfcRoad)""}]"
+2,合规,"[{""guid"": ""3qKZsV4mrF0wOxRjyA8_S3"", ""type"": ""A大桥左线 (IfcBridge)""}, {""guid"": ""1TNv6Ty9L0ivEyiBVafqrG"", ""type"": ""公路 (IfcRoad)""}]"
+2,合规,"[{""guid"": ""3EtAD_wPn6E9rLJZ3AnbCn"", ""type"": ""单幅 (IfcBridge)""}, {""guid"": ""1TNv6Ty9L0ivEyiBVafqrG"", ""type"": ""公路 (IfcRoad)""}]"
+2,合规,"[{""guid"": ""3qKZsV4mrF0wOxRjyA8_S3"", ""type"": ""A大桥左线 (IfcBridge)""}, {""guid"": ""1TNv6Ty9L0ivEyiBVafqrG"", ""type"": ""公路 (IfcRoad)""}]"
+3,不适用,不适用
+4,不适用,不适用
+7,不适用,不适用
+8,不适用,不适用
+9,不适用,不适用
+12,不适用,不适用
+13,不适用,不适用
+14,不适用,不适用
+17,不适用,不适用
+18,不适用,不适用
+19,不适用,不适用
+22,不适用,不适用
+23,不适用,不适用
+24,不适用,不适用
+27,不合规,"[{""guid"": ""3EtAD_wPn6E9rLJZ3AnbCn"", ""type"": ""单幅 (IfcBridge)""}, {""guid"": ""1TNv6Ty9L0ivEyiBVafqrG"", ""type"": ""公路 (IfcRoad)""}]"
+27,不合规,"[{""guid"": ""3qKZsV4mrF0wOxRjyA8_S3"", ""type"": ""A大桥左线 (IfcBridge)""}, {""guid"": ""1TNv6Ty9L0ivEyiBVafqrG"", ""type"": ""公路 (IfcRoad)""}]"
+28,不适用,不适用
+29,不适用,不适用
+30,不适用,不适用
+31,不适用,不适用
+33,不适用,不适用
+34,不适用,不适用
+35,不适用,不适用
+36,不适用,不适用
+37,不适用,不适用
+38,不适用,不适用
+39,不适用,不适用
+40,不适用,不适用
+41,不适用,不适用
+42,不适用,不适用
+43,不适用,不适用
+44,不适用,不适用
+45,不适用,不适用
+46,不适用,不适用
+47,不适用,不适用
+48,不适用,不适用
+49,不适用,不适用
+50,不适用,不适用
+51,不适用,不适用
+
