@@ -44,9 +44,10 @@ This repository supports automated rule checking for experiments and development
 
 ## Automatic Compliance Checking (BIM ACC)
 Steps for automatic compliance checking:
-1. Configure the OpenAI model endpoint in `config/openai_api.toml`.
-2. Edit `config/config.toml.example` under the `config` directory as needed, then save it as `config.toml`.
-3. Run `python main.py --config config/config.toml` for compliance checking. Process information will be saved to `database/bridge_database` or `database/building_database`, and evaluation data will be saved to the `evaluate` directory.
+1. Run the command `pip install -r requirements.txt` to install the required project dependencies.
+2. Configure the OpenAI model endpoint in `config/openai_api.toml`.
+3. Edit `config/config.toml.example` under the `config` directory as needed, then save it as `config.toml`.
+4. Run `python main.py --config config/config.toml` for compliance checking. Process information will be saved to `database/bridge_database` or `database/building_database`, and evaluation data will be saved to the `evaluate` directory.
 
 ---
 
