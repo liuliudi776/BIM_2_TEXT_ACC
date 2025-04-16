@@ -1,4 +1,4 @@
-# Automatic BIM Compliance Checking Based on Large Language Models: Dataset Structure
+# Automatic BIM Compliance Checking Based on Large Language Models
 
 This repository supports automated rule checking for experiments and development related to the paper "BIM Automated Compliance Checking via the Large Language Models driven BIM-to-Text Paradigm."
 
