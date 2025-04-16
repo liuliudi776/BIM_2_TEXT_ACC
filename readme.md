@@ -1,7 +1,3 @@
-明白，以下为对应的英文翻译，去除 label 部分的详细描述，内容简明表达：
-
----
-
 # Automatic BIM Compliance Checking Based on Large Language Models: Dataset Structure
 
 This repository supports automated rule checking for experiments and development related to the paper "BIM Automated Compliance Checking via the Large Language Models driven BIM-to-Text Paradigm."
